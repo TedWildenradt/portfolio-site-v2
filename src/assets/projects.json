@@ -3,8 +3,8 @@
     "name": "VacationBnB",
     "imageSource": "../images/fec_showcase.png",
     "description": "A web app based on a popular online website for people to book homes",
-    "url": "https://github.com/FEC-5-Open-Table/Reviews-Module",
-    "github": "https://github.com/FEC-5-Open-Table/Reviews-Module",
+    "url": "https://vacationbnb.herokuapp.com/#/",
+    "github": "https://github.com/TedWildenradt/VacationBnB",
     "iconAnimation": "rubberBand",
     "frontEndStack": [
       "html5-plain",
@@ -40,8 +40,8 @@
     "name": "Rise",
     "imageSource": "../images/sdc_showcase.png",
     "description": "An app to help employees get raises and promotions by tracking goals and accomplishments.",
-    "url": "https://github.com/VacationDB/navigation",
-    "github": "https://github.com/VacationDB/navigation",
+    "url": "https://time-to-rise.herokuapp.com/#/",
+    "github": "https://github.com/TedWildenradt/rise",
     "iconAnimation": "tada",
     "frontEndStack": [
       "html5-plain",
@@ -80,8 +80,8 @@
     "name": "SFRentalData",
     "imageSource": "../images/empty_showcase.png",
     "description": "A Data visualization for the SF rental market over time.",
-    "url": "https://github.com/ChrisW321/Crawler.io",
-    "github": "https://github.com/ChrisW321/Crawler.io",
+    "url": "https://tedwildenradt.github.io/d3-js-project/",
+    "github": "https://github.com/TedWildenradt/d3-js-project",
     "iconAnimation": "tada",
     "frontEndStack": [
       "html5-plain",
