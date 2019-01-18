@@ -13,8 +13,8 @@
       "react-original"
     ],
     "frontEndStackNames": ["HTML5", "CSS3", "JavaScript", "React.js"],
-    "backEndStack": ["nodejs-plain", "express-original", "mongodb-plain"],
-    "backEndStackNames": ["Node.js", "Express", "MySQL"],
+    "backEndStack": ["rails-plain-wordmark", "express-original", "postgresql-plain"],
+    "backEndStackNames": ["Rails", "Express", "PostgreSQL"],
     "tools": [
       "visualstudio-plain",
       "trello-plain",
