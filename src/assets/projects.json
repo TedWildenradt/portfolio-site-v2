@@ -1,8 +1,8 @@
 [
   {
-    "name": "Open Source Table",
+    "name": "VacationBnB",
     "imageSource": "../images/fec_showcase.png",
-    "description": "MERN-stack app based on a popular online website for people to book restaurants",
+    "description": "A web app based on a popular online website for people to book homes",
     "url": "https://github.com/FEC-5-Open-Table/Reviews-Module",
     "github": "https://github.com/FEC-5-Open-Table/Reviews-Module",
     "iconAnimation": "rubberBand",
@@ -37,9 +37,9 @@
     ]
   },
   {
-    "name": "VacationDB",
+    "name": "Rise",
     "imageSource": "../images/sdc_showcase.png",
-    "description": "System-design case study load-testing server/database choices, optimizations, node-clustering, and caching",
+    "description": "An app to help employees get raises and promotions by tracking goals and accomplishments.",
     "url": "https://github.com/VacationDB/navigation",
     "github": "https://github.com/VacationDB/navigation",
     "iconAnimation": "tada",
@@ -77,9 +77,9 @@
     ]
   },
   {
-    "name": "Crawler.io",
+    "name": "SFRentalData",
     "imageSource": "../images/empty_showcase.png",
-    "description": "Plan crawls for your friends",
+    "description": "A Data visualization for the SF rental market over time.",
     "url": "https://github.com/ChrisW321/Crawler.io",
     "github": "https://github.com/ChrisW321/Crawler.io",
     "iconAnimation": "tada",
