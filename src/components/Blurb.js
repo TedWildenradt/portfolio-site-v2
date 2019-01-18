@@ -2,10 +2,10 @@ import React from "react";
 import Code from "react-code-prettify";
 class Blurb extends React.Component {
   state = {
-    image1: "../images/ChrisW321.jpg",
-    image2: "../images/ChrisW321.jpg",
+    image1: "../images/Ted.jpg",
+    image2: "../images/Ted.jpg",
     currentImageNumber: 1,
-    currentImage: "../images/ChrisW321.jpg"
+    currentImage: "../images/Ted.jpg"
   };
 
   updatePhoto() {
@@ -24,7 +24,7 @@ class Blurb extends React.Component {
   componentDidUpdate() {}
   componentWillUnmount() {}
   render() {
-    const codeString = `const Chris = () => {
+    const codeString = `const Ted = () => {
       let aboutMe = {
         skills: ['JS', 'CSS', 'Git', 'React'],
         activities: ['Staying Active', 'creative coding']

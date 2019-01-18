@@ -37,7 +37,7 @@ class Footer extends React.Component {
     return (
       <Fade>
         <div className={"footer"}>
-          <p id="footer_name">Copyright © 2018 Christopher Wildenradt</p>
+          <p id="footer_name">Copyright © 2019 Ted Wildenradt</p>
         </div>
       </Fade>
     );

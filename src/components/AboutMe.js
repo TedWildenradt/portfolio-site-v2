@@ -29,7 +29,7 @@ class AboutMe extends React.Component {
               <img
                 className="about-me-headshot"
                 alt="did not load"
-                src="../images/ChrisW321.jpg"
+                src="../images/Ted.jpg"
               />
             </div>
             <div className="about-description">

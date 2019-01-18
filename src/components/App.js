@@ -43,9 +43,9 @@ class App extends React.Component {
         <h2 className="about-tagline">
           I'm an engineer
           <br />
-          designing responsive
+          specializing in responsive
           <br />
-          mobile-first web applications
+          web applications
         </h2>
         <Blurb />
         <Fade>
@@ -53,9 +53,9 @@ class App extends React.Component {
             <h2 className="about-tagline-mobile">
               I'm an engineer
               <br />
-              designing responsive
+              specializing in responsive
               <br />
-              mobile-first web applications
+              web applications
             </h2>
           </div>
         </Fade>
