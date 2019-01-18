@@ -206,20 +206,20 @@ class Contact extends React.Component {
 
   handleClick(target) {
     if (target === "LinkedIn") {
-      window.location.assign("https://www.linkedin.com/in/chriskw/");
+      window.location.assign("https://www.linkedin.com/in/ted-wildenradt/");
     }
 
     if (target === "Github") {
-      window.location.assign("https://github.com/ChrisW321");
+      window.location.assign("https://github.com/TedWildenradt");
     }
 
     if (target === "Email") {
-      this.setState({ wellText: "christopherkwildenradt@gmail.com" });
+      this.setState({ wellText: "tedkwildenradt@gmail.com" });
       this.setState({ wellHidden: false });
     }
 
     if (target === "Phone") {
-      this.setState({ wellText: "(831) 345-7627" });
+      this.setState({ wellText: "(831) 345-3689" });
       this.setState({ wellHidden: false });
     }
 
@@ -319,7 +319,7 @@ class Contact extends React.Component {
             I'd love to talk to you! <br /> Please send me an email <br /> and
             I'll get back to you <br /> as soon as possible.
           </p>
-          <h2 className="contact-greeting-footer"> Chris </h2>
+          <h2 className="contact-greeting-footer"> Ted </h2>
         </div>
 
         {/* Contact Information */}

@@ -35,10 +35,10 @@ class AboutMe extends React.Component {
             <div className="about-description">
               <p className="about-description-text">
                 I'm a full-stack software engineer who enjoys building scalable,
-                responsive, mobile-first web applications.
+                responsive, beautifully designed web applications.
               </p>
               <p className="about-description-text">
-                When I’m not on the job, I enjoy traveling the world from Southeast Asia all the way to Northern Africa.
+                When I’m not on the job, I enjoy traveling the world and staying active.
               </p>
               <p className="about-description-text">
                 I earned a B.S. in Business-Economics from the University

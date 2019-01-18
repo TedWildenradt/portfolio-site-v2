@@ -27,7 +27,7 @@ class Blurb extends React.Component {
     const codeString = `const Chris = () => {
       let aboutMe = {
         skills: ['JS', 'CSS', 'Git', 'React'],
-        activities: ['hiking', 'creative coding']
+        activities: ['Staying Active', 'creative coding']
       };
       for (let i = 0; i < this.aboutMe.skills.length; i += 1) {
         alert('Work harder and always keep learning!');
