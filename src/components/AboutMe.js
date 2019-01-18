@@ -41,12 +41,12 @@ class AboutMe extends React.Component {
                 When I’m not on the job, I enjoy traveling the world and staying active.
               </p>
               <p className="about-description-text">
-                I earned a B.S. in Business-Economics from the University
-                of California, Los Angeles. I have experience working with: React,
-                MongoDB, Express, Node.js, Git, Docker, Webpack, SQL,
-                HTML5/CSS/JS, AWS (S3, EC2, Route 53, CloudFront), Jest/Enzyme,
-                Mocha/Chai, Redux, jQuery, Heroku, CircleCI,
-                MySQL, PostgreSQL, and Grunt.
+                I earned a B.S. in Environmental Economics and Policy from the University
+                of California, Berkeley. I have experience working with: React.js,
+                JavaScript, Redux, D3.js, CSS3, HTML5, JQuery, Ruby on Rails,
+                Node.js, AWS (S3, SNS, SES), AJAX/AXIOS, PostgreSQL, Python, Express.js
+                REST APIs, Single-Page Applications, Heroku, RSpec, Git and Github,
+                TDD, and OOP principles.
               </p>
             </div>
           </div>
