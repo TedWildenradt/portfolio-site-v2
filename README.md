@@ -28,7 +28,7 @@ npm test
 
 ## Deployment
 
-Deployed with AWS here - TBA _http://www.chrisw321.fun_
+Deployed with 
 
 ## Built With
 
