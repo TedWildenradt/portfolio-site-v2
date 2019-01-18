@@ -1,4 +1,4 @@
-# Christopher Wildenradt's Portfolio Website
+# Ted Wildenradt's Portfolio Website
 
 This is a portfolio site to display my personal projects and provide my resume and contact information to potential employers.
 
@@ -39,7 +39,7 @@ Deployed with AWS here - TBA _http://www.chrisw321.fun_
 
 ## Authors
 
-- **Christopher Wildenradt** - _Primary Author_ - [Christopher Wildenradt]
+- **Ted Wildenradt** - _Primary Author_ - [Ted Wildenradt]
 
 ## License
 

@@ -28,14 +28,14 @@ class App extends React.Component {
     return (
       <React.Fragment>
         <GithubCorner
-          href="https://github.com/ChrisW321"
+          href="https://github.com/TedWildenradt"
           className="corner"
           octoColor="#222831"
           bannerColor="#EEEEEE"
           size={175}
         />
         <Header
-          title="Christopher Wildenradt"
+          title="Ted Wildenradt"
           icon="ios-contact"
           buttonsHidden="true"
         />

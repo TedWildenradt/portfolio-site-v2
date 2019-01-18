@@ -9,7 +9,7 @@ class Contact extends React.Component {
   state = {
     title: "Contact",
     wellHidden: true,
-    wellText: "christopherkwildenradt@gmail.com",
+    wellText: "tedkwildenradt@gmail.com",
     shake: false,
     icon: "ios-moon",
     mapType: "normal",
