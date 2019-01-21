@@ -13,26 +13,20 @@
       "react-original"
     ],
     "frontEndStackNames": ["HTML5", "CSS3", "JavaScript", "React.js"],
-    "backEndStack": ["rails-plain-wordmark", "express-original", "postgresql-plain"],
-    "backEndStackNames": ["Rails", "Express", "PostgreSQL"],
+    "backEndStack": ["rails-plain-wordmark", "postgresql-plain"],
+    "backEndStackNames": ["Rails", "PostgreSQL"],
     "tools": [
       "visualstudio-plain",
-      "trello-plain",
       "babel-plain",
       "webpack-plain",
-      "grunt-line",
-      "docker-plain",
       "amazonwebservices-original",
       "git-plain"
     ],
     "toolsNames": [
       "VSCode",
-      "Trello",
       "Babel",
       "Webpack",
-      "Grunt",
-      "Docker",
-      "AWS EC2",
+      "AWS S3",
       "Git"
     ]
   },
@@ -53,26 +47,21 @@
     "backEndStack": [
       "nodejs-plain",
       "express-original",
-      "postgresql-plain",
-      "redis-plain"
+      "mongodb-plain colored"
     ],
-    "backEndStackNames": ["Node.js", "Express", "PostgreSQL", "Redis"],
+    "backEndStackNames": ["Node.js", "Express", "MongoDB"],
     "tools": [
       "visualstudio-plain",
-      "trello-plain",
       "babel-plain",
       "webpack-plain",
-      "docker-plain",
       "amazonwebservices-original",
       "git-plain"
     ],
     "toolsNames": [
       "VSCode",
-      "Trello",
       "Babel",
       "Webpack",
-      "Docker",
-      "AWS EC2",
+      "AWS SNS/SES",
       "Git"
     ]
   },
