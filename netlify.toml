@@ -1,0 +1,4 @@
+[build]
+base = "Ted-Wildenradt-Portfolio-master/"
+publish = "Ted-Wildenradt-Portfolio-master/build/"
+command = "npm run build"
