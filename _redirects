@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://gifted-nobel-57607f.netlify.com/* http://www.tedkw.com/:splat 301!
