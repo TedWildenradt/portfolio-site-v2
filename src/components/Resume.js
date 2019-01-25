@@ -1,7 +1,7 @@
 import React from "react";
 import { Document, Page } from "react-pdf";
 import Ionicon from "react-ionicons";
-import resume from "../assets/Resume 2018.pdf";
+import resume from "../assets/Resume 2019.pdf";
 import Header from "./Header";
 import NavCard from "./NavCard";
 
@@ -16,7 +16,7 @@ class Resume extends React.Component {
     const downloadButton = (
       <div className="resume-download-button">
         <a
-          href={require("../assets/Resume 2018.pdf")}
+          href={require("../assets/Resume 2019.pdf")}
           download="Resume 2018.pdf"
         >
           <p className="resume-download-button">Download my resume!</p>
