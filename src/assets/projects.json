@@ -1,7 +1,7 @@
 [
   {
     "name": "VacationBnB",
-    "imageSource": "../images/fec_showcase.png",
+    "imageSource": "../images/VBB_showcase.png",
     "description": "A web app based on a popular online website for people to book homes",
     "url": "https://vacationbnb.herokuapp.com/#/",
     "github": "https://github.com/TedWildenradt/VacationBnB",
