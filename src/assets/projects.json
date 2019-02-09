@@ -32,7 +32,7 @@
   },
   {
     "name": "Rise",
-    "imageSource": "../images/sdc_showcase.png",
+    "imageSource": "../images/rise_showcase.png",
     "description": "An app to help employees get raises and promotions by tracking goals and accomplishments.",
     "url": "https://time-to-rise.herokuapp.com/#/",
     "github": "https://github.com/TedWildenradt/rise",
